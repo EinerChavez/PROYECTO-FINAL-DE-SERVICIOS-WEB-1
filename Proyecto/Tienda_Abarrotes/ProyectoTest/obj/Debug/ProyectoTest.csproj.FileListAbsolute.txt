@@ -1,0 +1,670 @@
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\ProyectoTest.dll.config
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\ProyectoTest.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\ProyectoTest.pdb
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\csc.exe
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\csc.exe.config
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\csc.rsp
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\csi.exe
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\csi.exe.config
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\csi.rsp
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.AppContext.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Console.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\vbc.exe
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\vbc.exe.config
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\vbc.rsp
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\Antlr3.Runtime.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\Newtonsoft.Json.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.Helpers.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.Mvc.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.Optimization.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.Razor.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.WebPages.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\WebGrease.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.Helpers.xml
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.Mvc.xml
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.Optimization.xml
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.Razor.xml
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.WebPages.xml
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\Newtonsoft.Json.xml
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\Antlr3.Runtime.pdb
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\obj\Debug\ProyectoTest.csprojAssemblyReference.cache
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\obj\Debug\ProyectoTest.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\obj\Debug\ProyectoTest.csproj.CopyComplete
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\obj\Debug\ProyectoTest.dll
+D:\WorkSpaceAD\TEST CARRITO COMPRAS\ProyectoTest\ProyectoTest\obj\Debug\ProyectoTest.pdb
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\ProyectoTest.dll.config
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\ProyectoTest.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\ProyectoTest.pdb
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csc.exe
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csc.exe.config
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csc.rsp
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csi.exe
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csi.exe.config
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csi.rsp
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.AppContext.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Console.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\vbc.exe
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\vbc.exe.config
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\vbc.rsp
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Antlr3.Runtime.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Newtonsoft.Json.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Helpers.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Mvc.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Optimization.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Razor.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\WebGrease.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Helpers.xml
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Mvc.xml
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Optimization.xml
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Razor.xml
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.xml
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Newtonsoft.Json.xml
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Antlr3.Runtime.pdb
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\obj\Debug\ProyectoTest.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\obj\Debug\ProyectoTest.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\obj\Debug\ProyectoTest.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\obj\Debug\ProyectoTest.dll
+D:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\obj\Debug\ProyectoTest.pdb
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\ProyectoTest.dll.config
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\ProyectoTest.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\ProyectoTest.pdb
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csc.exe
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csc.exe.config
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csc.rsp
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csi.exe
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csi.exe.config
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\csi.rsp
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.AppContext.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Console.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\vbc.exe
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\vbc.exe.config
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\vbc.rsp
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Antlr3.Runtime.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Newtonsoft.Json.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Helpers.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Mvc.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Optimization.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Razor.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\WebGrease.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Helpers.xml
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Mvc.xml
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Optimization.xml
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.Razor.xml
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.xml
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Newtonsoft.Json.xml
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Antlr3.Runtime.pdb
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\obj\Debug\ProyectoTest.csprojAssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\obj\Debug\ProyectoTest.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\obj\Debug\ProyectoTest.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\obj\Debug\ProyectoTest.dll
+E:\WorkSpaceAD\YOUTUBE\026_FUNCIONALIDAD SISTEMA CARRITO\Proyecto\ProyectoTest\obj\Debug\ProyectoTest.pdb
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\ProyectoTest.dll.config
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\ProyectoTest.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\ProyectoTest.pdb
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csc.exe
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csc.exe.config
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csc.rsp
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csi.exe
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csi.exe.config
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csi.rsp
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.AppContext.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Console.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\vbc.exe
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\vbc.exe.config
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\vbc.rsp
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Antlr3.Runtime.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Newtonsoft.Json.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Helpers.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Mvc.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Optimization.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Razor.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\WebGrease.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Helpers.xml
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Mvc.xml
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Optimization.xml
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Razor.xml
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.xml
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Newtonsoft.Json.xml
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Antlr3.Runtime.pdb
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.csproj.AssemblyReference.cache
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.csproj.CoreCompileInputs.cache
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.csproj.CopyComplete
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.dll
+E:\OTROS DOCS\EJEMPLO\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.pdb
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\ProyectoTest.dll.config
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\ProyectoTest.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\ProyectoTest.pdb
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csc.exe
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csc.exe.config
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csc.rsp
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csi.exe
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csi.exe.config
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\csi.rsp
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.AppContext.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Console.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\vbc.exe
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\vbc.exe.config
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\vbc.rsp
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Antlr3.Runtime.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Newtonsoft.Json.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Helpers.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Mvc.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Optimization.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Razor.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\WebGrease.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Helpers.xml
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Mvc.xml
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Optimization.xml
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.Razor.xml
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.xml
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Newtonsoft.Json.xml
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Antlr3.Runtime.pdb
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.csproj.AssemblyReference.cache
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.csproj.CoreCompileInputs.cache
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.csproj.CopyComplete
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.dll
+E:\PROYECTO_P0II\Proyecto\026_SistemaCarritoCompras-main\026_SistemaCarritoCompras-main\ProyectoTest\obj\Debug\ProyectoTest.pdb
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\ProyectoTest.dll.config
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\ProyectoTest.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\ProyectoTest.pdb
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\csc.exe
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\csc.exe.config
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\csc.rsp
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\csi.exe
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\csi.exe.config
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\csi.rsp
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.AppContext.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Console.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\vbc.exe
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\vbc.exe.config
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\vbc.rsp
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\Antlr3.Runtime.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\Newtonsoft.Json.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.Helpers.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.Mvc.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.Optimization.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.Razor.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.WebPages.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\WebGrease.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.Helpers.xml
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.Mvc.xml
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.Optimization.xml
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.Razor.xml
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.WebPages.xml
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\Newtonsoft.Json.xml
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\Antlr3.Runtime.pdb
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\obj\Debug\ProyectoTest.csproj.AssemblyReference.cache
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\obj\Debug\ProyectoTest.csproj.CoreCompileInputs.cache
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\obj\Debug\ProyectoTest.csproj.CopyComplete
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\obj\Debug\ProyectoTest.dll
+E:\POOII\Proyecto_Grupo2\Tienda_Aparatos_Tecnologicos\ProyectoTest\obj\Debug\ProyectoTest.pdb
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\obj\Debug\ProyectoTest.csproj.AssemblyReference.cache
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\obj\Debug\ProyectoTest.csproj.CoreCompileInputs.cache
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\obj\Debug\ProyectoTest.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\obj\Debug\ProyectoTest.pdb
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\ProyectoTest.dll.config
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\ProyectoTest.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\ProyectoTest.pdb
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csc.exe
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csc.exe.config
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csc.rsp
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csi.exe
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csi.exe.config
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csi.rsp
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.AppContext.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Console.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\vbc.exe
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\vbc.exe.config
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\vbc.rsp
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Antlr3.Runtime.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Newtonsoft.Json.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Helpers.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Mvc.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Optimization.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Razor.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\WebGrease.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Helpers.xml
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Mvc.xml
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Optimization.xml
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Razor.xml
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.xml
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Newtonsoft.Json.xml
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Antlr3.Runtime.pdb
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\VCICLO\DESARROLLO DE SERVICIOS WEB I\Proyecto\Tienda_Abarrotes\ProyectoTest\obj\Debug\Proyecto.B8EEF35F.Up2Date
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\ProyectoTest.dll.config
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\ProyectoTest.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\ProyectoTest.pdb
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csc.exe
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csc.exe.config
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csc.rsp
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csi.exe
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csi.exe.config
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\csi.rsp
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.targets
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.AppContext.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Collections.Immutable.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Console.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.IO.Compression.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.IO.FileSystem.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.IO.Pipes.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Reflection.Metadata.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.AccessControl.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Claims.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Security.Principal.Windows.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.ValueTuple.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Xml.XmlDocument.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Xml.XPath.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\vbc.exe
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\vbc.exe.config
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\vbc.rsp
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\VBCSCompiler.exe
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\VBCSCompiler.exe.config
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Antlr3.Runtime.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Microsoft.Web.Infrastructure.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Newtonsoft.Json.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Helpers.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Mvc.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Optimization.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Razor.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.Deployment.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.Razor.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\WebGrease.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Helpers.xml
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Mvc.xml
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Optimization.xml
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.Razor.xml
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.xml
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.Deployment.xml
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\System.Web.WebPages.Razor.xml
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Newtonsoft.Json.xml
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Antlr3.Runtime.pdb
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.Helpers.resources.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.Mvc.resources.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.Optimization.resources.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.Razor.resources.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.WebPages.resources.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\obj\Debug\ProyectoTest.csproj.AssemblyReference.cache
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\obj\Debug\ProyectoTest.csproj.CoreCompileInputs.cache
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\obj\Debug\Proyecto.B8EEF35F.Up2Date
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\obj\Debug\ProyectoTest.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\obj\Debug\ProyectoTest.pdb
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Buffers.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Memory.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Numerics.Vectors.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\ProyectoTest\bin\roslyn\System.Threading.Tasks.Extensions.dll

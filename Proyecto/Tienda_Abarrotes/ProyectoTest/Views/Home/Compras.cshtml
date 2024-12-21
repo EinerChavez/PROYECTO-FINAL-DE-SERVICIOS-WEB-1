@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "Compra";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table id="tabla-compras" class="display responsive" style="width:100%">
+    <thead>
+        <tr>
+            <th>Fecha</th>
+            <th>Total</th>
+            <th>Detalles</th>
+        </tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+<script>
+    $(document).ready(function () {
+        var tablaCompras = $('#tabla-compras').DataTable({
+            responsive: true,
+            "ajax": {
+                "url": '@Url.Action("ObtenerCompra", "Home")',
+                "type": "GET",
+                "datatype": "json"
+            },
+            "columns": [
+                { "data": "FechaTexto" },
+                { "data": "Total" },
+                {
+                    "data": "oDetalleCompra", "render": function (data, type, row, meta) {
+                        var detalles = '';
+                        $.each(data, function (index, detalle) {
+                            detalles += '<ul>';
+                            detalles += '<li>Producto: ' + detalle.oProducto.Nombre + '</li>';
+                            detalles += '<li>Imagen: <img src="data:' + detalle.oProducto.extension + ';base64,' + detalle.oProducto.base64 + '" alt="Imagen del producto"></li>';
+                            detalles += '<li>Total: ' + detalle.Total + '</li>';
+                            detalles += '<li>Cantidad: ' + detalle.Cantidad + '</li>';
+                            detalles += '</ul>';
+                        });
+                        return detalles;
+                    }
+                }
+            ],
+            "language": {
+                "url": "//cdn.datatables.net/plug-ins/1.10.25/i18n/Spanish.json"
+            }
+        });
+    });
+</script>

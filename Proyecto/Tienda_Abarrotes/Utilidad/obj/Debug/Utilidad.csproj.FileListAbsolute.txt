@@ -1,0 +1,6 @@
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\Utilidad\bin\Debug\Utilidad.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\Utilidad\bin\Debug\Utilidad.pdb
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\Utilidad\obj\Debug\Utilidad.csproj.AssemblyReference.cache
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\Utilidad\obj\Debug\Utilidad.csproj.CoreCompileInputs.cache
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\Utilidad\obj\Debug\Utilidad.dll
+C:\SERVICIOS WEB 1\PROYECTO_EDULEARNPRO\Proyecto\Proyecto\Tienda_Abarrotes\Utilidad\obj\Debug\Utilidad.pdb
